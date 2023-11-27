@@ -44,14 +44,7 @@ const weekendDays = ["saturday", "sunday"]
 // console.log(weekendDays.toUpperCase())
 
 // a) Your answer: it should capitialize Saturday and Sunday.
-// b) Verify and explain: TypeError: weekendDays.toUpperCase is not a function
-    at Object.<anonymous> (/Users/learnacademy/Desktop/assessment-1-irvinmoore/coding-concepts.js:44:26)
-    at Module._compile (node:internal/modules/cjs/loader:1376:14)
-    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
-    at Module.load (node:internal/modules/cjs/loader:1207:32)
-    at Module._load (node:internal/modules/cjs/loader:1023:12)
-    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
-    at node:internal/main/run_main_module:28:49
+// b) Verify and explain: "SATURDAY", "SUNDAY"
 
 
 // --------------------5) What will this log?
